@@ -1,5 +1,5 @@
 ---
-title: Présentation
+title: Presentation
 author: Nathan Verdier
 geometry: margin=2cm
 ---
