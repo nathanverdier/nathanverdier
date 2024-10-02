@@ -55,7 +55,6 @@ Feel free to explore my repositories to see how I apply these technologies in re
 
 #### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-verdier) or via [Email](mailto:nathanverdier34@gmail.com)
 
+### 🌟 Thank You for Visiting My GitHub! 🌟
 
-
-
-Thank you for visiting my GitHub, feel free to connect and collaborate!
+#### Feel free to connect and collaborate! 🤝
