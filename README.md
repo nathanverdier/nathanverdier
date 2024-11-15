@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nathan Verdier
 
-I am passionate about technology and problem-solving, particularly in **POSIX systems**, **Linux**, **Embedded Technologies**, and **Cybersecurity**. Currently, I am pursuing in MASTER SETSIS after a Bachelor of Technology in Informatics at IUT Clermont-Auvergne, where I am expanding my global knowledge in informatique embedded.
+I am passionate about technology and problem-solving, particularly in **UNIX/Linux**, **Embedded Technologies**, **Machine/Deep Learning** and **Cybersecurity**. Currently, I am pursuing in MASTER SETSIS after a Bachelor of Technology in Informatics at IUT Clermont-Auvergne, where I am expanding my global knowledge in informatique embedded.
 
 ### 🔧 Technologies & Skills
 
