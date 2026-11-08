@@ -5,7 +5,7 @@
 I design and secure systems: **ISO 27001 compliance**, **secure infrastructure**, **penetration testing practice** and **machine learning**. Before ESIEA, I earned a Bachelor of Technology in Computer Science at IUT Clermont-Auvergne.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nathanverdier.github.io-60A5FA?style=for-the-badge)](https://nathanverdier.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathan--verdier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-verdier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathan--verdier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-verdier-1b6421116)
 
 ## What I work on
 
@@ -77,4 +77,4 @@ I design and secure systems: **ISO 27001 compliance**, **secure infrastructure**
 
 Feel free to explore my repositories and my [portfolio](https://nathanverdier.github.io/portfolio) to see how I apply these skills in real projects.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-verdier) or by [email](mailto:nathanverdier34@gmail.com).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-verdier-1b6421116) or by [email](mailto:nathanverdier34@gmail.com).
