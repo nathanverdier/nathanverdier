@@ -6,7 +6,6 @@ I design and secure systems: **ISO 27001 compliance**, **secure infrastructure**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nathanverdier.github.io-60A5FA?style=for-the-badge)](https://nathanverdier.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nathan--verdier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-verdier)
-[![Email](https://img.shields.io/badge/Email-nathanverdier34@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanverdier34@gmail.com)
 
 ## What I work on
 
